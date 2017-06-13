@@ -15,13 +15,16 @@ Juli 2010 - Juli 2013
 Februari 2008 - Juli 2010
 ### SDN Kedung Halang 1 Bogor
 Juli 2004 - Februari 2008
+
 ## Pelatihan
 - Olimpiade Matematika
 - TOEFL Course
 - Algoritma tiap Interdept
+
 ## Keahlian
 - Microsoft Office
 - Bahasa Pemograman C — Basic
 - HTML
+
 ## Hobi
 Nonton,tidur dan makan.
