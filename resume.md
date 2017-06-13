@@ -1,9 +1,9 @@
 # Putri Ardi
 Mahasiswa Ilmu Komputer IPB
 
-*Asrama TPB IPB Dramaga Bogor*\
-*+62 822 8806 9749*\
-*putriardi407@gmail.com*
+*Asrama TPB IPB Dramaga Bogor<br>
++62 822 8806 9749<br>
+putriardi407@gmail.com*
 ## Pendidikan
 ### Institut Pertanian Bogor — S-1
 Agustus 2016 - Sekarang
