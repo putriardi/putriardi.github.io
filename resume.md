@@ -18,7 +18,7 @@ Juli 2004 - Februari 2008
 ## Pelatihan
 - Olimpiade Matematika
 - TOEFL Course
--Algoritma tiap Interdept
+- Algoritma tiap Interdept
 ## Keahlian
 - Microsoft Office
 - Bahasa Pemograman C — Basic
